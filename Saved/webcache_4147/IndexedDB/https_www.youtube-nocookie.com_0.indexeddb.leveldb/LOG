@@ -1,0 +1,5 @@
+2023/05/25-20:29:16.304 3448 Reusing MANIFEST D:/Epic Game/Unreal Projects/OpenWorldGame/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/25-20:32:01.447 3668 Level-0 table #5: started
+2023/05/25-20:32:01.460 3668 Level-0 table #5: 1165 bytes OK
+2023/05/25-20:32:01.463 3668 Delete type=0 #3
+2023/05/25-20:32:01.463 3668 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

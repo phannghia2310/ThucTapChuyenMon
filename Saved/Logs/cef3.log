@@ -46,3 +46,12 @@
 [0525/214811.566:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0525/215719.587:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0525/215719.587:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0526/170115.358:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0526/170115.360:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0526/170115.361:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0526/170115.362:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
+[0526/170115.491:ERROR:dxva_video_decode_accelerator_win.cc(1341)] DXVAVDA fatal error: Could not load mf.dll: The specified module could not be found. (0x7E)
+[0526/170315.514:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mf.dll: The specified module could not be found. (0x7E)
+[0526/170315.515:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: mfplat.dll: The specified module could not be found. (0x7E)
+[0526/170315.516:ERROR:dxva_video_decode_accelerator_win.cc(1431)] DXVAVDA fatal error: could not LoadLibrary: msmpeg2vdec.dll: The specified module could not be found. (0x7E)
+[0526/170315.516:ERROR:dxva_video_decode_accelerator_win.cc(1439)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: The specified module could not be found. (0x7E)
